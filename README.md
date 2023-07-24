@@ -1,3 +1,3 @@
 # Github Blog
 
-Este é um blog fictício com issues do GitHub trazidos por meio da API da própria plataforma. O fetching dos dados foi feito por meio do Axios.
+This is a fictional blog with GitHub issues brought in through the platform's API. The data fetching was done using Axios.
